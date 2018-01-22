@@ -20,7 +20,7 @@ With these benefits in mind, a major part of this course will be the creation an
 
 [NYU Web Publishing](https://wp.nyu.edu/) makes creating a process website easy. Follow these steps, and in a few short minutes, you can have a simple, appealing site perfect for documenting your work in this course. 
 
-1. *[Log in to NYU Web Publishing]*(https://wp.nyu.edu/wp-login.php) using [your NYU NetID and password](http://www.nyu.edu/life/information-technology/getting-started/netid-and-password.html). This is the same ID and password you used to log in to NYU Classes.
+1. *[Log in to NYU Web Publishing](https://wp.nyu.edu/wp-login.php)* using [your NYU NetID and password](http://www.nyu.edu/life/information-technology/getting-started/netid-and-password.html). This is the same ID and password you used to log in to NYU Classes.
 
 2. *Go to the [Create New Site page](https://wp.nyu.edu/create/)* and select "Portfolio."
 

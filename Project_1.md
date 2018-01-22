@@ -3,8 +3,8 @@
 
 * **DM-GY 4913-B Special Topics: Interactive Installation**
 
-##Project 1: Transform a space. Create a space.
-##In-class critique: Monday February 5th. 6pm
+## Project 1: Transform a space. Create a space.
+## In-class critique: Monday February 5th. 6pm
 ## 10% of your Final Grade
 
 ## Materials: brown paper, painters tape, string/twine
