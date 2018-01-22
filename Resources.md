@@ -2,6 +2,8 @@
 
 ### General
 
+- [Circuit Basics](CircuitBasics.md)
+
 - [DIY custom switches](http://www.kobakant.at/DIY/?p=792)
 
 - [Great for forums, tutorials, documentation and everything for Max/MSP/Jitter](http://cycling74.com)

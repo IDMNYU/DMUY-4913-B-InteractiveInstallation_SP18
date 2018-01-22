@@ -288,3 +288,5 @@ Faculty can provide course accommodations/modifications only after receipt of an
 ### [Self-Assessments](SelfAssessments.md)
 
 ### [Slack](https://iisp18.slack.com)
+
+### [Circuit Basics](CircuitBasics.md)
