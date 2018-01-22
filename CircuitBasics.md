@@ -1,7 +1,6 @@
 ## Circuit Basics
 
-![Image of a simple circuit]
-(http://www.faqs.org/docs/electric/DC/00032.png)
+![Image of a simple circuit](http://www.faqs.org/docs/electric/DC/00032.png)
 
 #### Electricity
 
@@ -13,7 +12,7 @@ Electricity is the movement of electrons. Electrons create a charge, which we ca
 
 * Resistance - Resistance is what limits the flow of current in your circuit. Think of this as your thumb over a garden hose. It is measured in Ohms and is represented by the letter R.
 
-###Ohm's Law
+### Ohm's Law
 
 Georgia Ohm, A Bavarian Scientist who stuided electricity, found that there is a direct proportionality between the potential difference (voltage) applied across a conductor. This is known as [Ohm's Law](https://en.wikipedia.org/wiki/Ohm%27s_law)
 
