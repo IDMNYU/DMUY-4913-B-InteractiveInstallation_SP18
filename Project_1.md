@@ -4,24 +4,25 @@
 * **DM-GY 4913-B Special Topics: Interactive Installation**
 
 ##Project 1: Transform a space. Create a space.
-##In-class critique: Monday February 12. 6pm
+##In-class critique: Monday February 5th. 6pm
 ## 10% of your Final Grade
 
 ## Materials: brown paper, painters tape, string/twine
 
-Using only the materials provided and a location on the 8th floor of MAGNET transform or create a space. This is a space that the body can travel through or be within. Ultimately, your goal is to create an experience for the body, not an object. How is this experience for the viewer different at different locations in this space?
+With a partner and only using the materials provided and a location on the 8th floor of MAGNET, transform or create a space. This is a space that the body can travel through or be within. Ultimately, your goal is to create an experience for the body, not an object. How is this experience for the viewer different at different locations in this space?
 
 Consider how people currently move through the space. How could you change that? Play with scale. Play with texture. Play with openings.
 
-Consider how you can manipulate the paper – layer it, crumble it, break it into pieces, burn it, write on it, fold it, hang it, etc. It has a million affordances. How can you manipulate the paper to give it a different treatment, texture and assemblage?
+Consider how you can manipulate the paper – layer it, crumble it, break it into pieces, burn it, tear it, fold it, hang it, etc. It has a million affordances. How can you manipulate the paper to give it a different treatment, texture and assemblage?
 
-The goal of this project is to begin thinking about a space and how to create space. Forget about technology or making something interactive. Object making tends to be easier than thinking about how to create spaces. This project challenges you to separate from those things, in order to think about space and scale. This class is all about creating work that takes over or is coupled with a space, not just objects & technology existing in a space/gallery.
+The goal of this project is to begin thinking about a space and how to create space. Forget about technology or making something interactive. Object making tends to be easier than thinking about how to create spaces. Forget about singular object making. This project challenges you to separate from those things, in order to think about space and scale. This class is all about creating work that takes over, consumes or is coupled with a space, not just objects (& technology) existing in a space/gallery.
 
 Secure the space that you’d like to use. Let me know before the end of class on Jan 29th. 
 
-You are required to craft GOOD documentation of your project (video and image). Submit copies to me by Tuesday February 13th (via Slack AND post on your blog). Title all of your documentation Project_1_name_shotName.jpg and Project_1_Name_shotName.mov
+You are required to craft GOOD documentation of your project (video and image). Submit copies to me by Tuesday February 6th (via Slack AND post on your blog under Project 1). Title all of your documentation Project_1_name_shotName.jpg and Project_1_Name_shotName.mov
 
-### Process
+### Process for this project (all present on oyur Process Site)
+
 1. secure space, document space
 2. research ideas: find intriguing works, set-ups, concepts
 3. Sketch Ideas 

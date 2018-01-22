@@ -9,7 +9,7 @@
 ##### Homework 
 * Work on [Project 1](Project_1.md)
 * Document Project 1
-* Check your email for the invitation to our [Slack](https://com) Channel. Please join additional channels related to this class.
+* Check your email for the invitation to our [Slack](https://iisp18.slack.com) workspace. Please join additional channels related to this class.
 * Email me your [Github Handle](https://github.com/). If you do not have one, please setup a Github Account
 * Email me a link to your organization tools (mood boards, blog) that is used soley for this class.
 
@@ -45,7 +45,7 @@
 
 ### Week 4 Feb 12th: Maxin'
 ##### InClass  
-* Discussion of readings
+* Discussion of readings + [Project 2](Project_2.md)
 * Max poem swap
 * More Max Basics
 
