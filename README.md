@@ -2,7 +2,7 @@
 
 * **DM-GY 4913-B Special Topics:Interactive Installation**
 * **Mondays 6:00pm – 9:50pm**
-* **2 MetroTech Room 817**
+* **2 MetroTech Room 824**
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email: Katherine.Bennett@nyu.edu**
 * **[Slack](https://iisp18.slack.com)**
@@ -71,6 +71,8 @@ This course does presume that students will:
 
 
 ### Requirements
+
+•   [A copy of Max/MSP/Jitter. Check out the education options. Download it and install it](https://cycling74.com/shop?educational=1)
 
 •	[Show and Tell](ShowAndTell.md) – see below
 

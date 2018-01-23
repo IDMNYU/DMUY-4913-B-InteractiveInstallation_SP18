@@ -7,11 +7,11 @@
 * Sign up for Show & Tells
 
 ##### Homework 
-* Work on [Project 1](Project_1.md)
+* Work on [Project 1](Project_1.md) - Do steps 1 -4
 * Document Project 1
 * Check your email for the invitation to our [Slack](https://iisp18.slack.com) workspace. Please join additional channels related to this class.
 * Email me your [Github Handle](https://github.com/). If you do not have one, please setup a Github Account
-* Email me a link to your organization tools (mood boards, blog) that is used soley for this class.
+* Post a link to your Process Site in our Slack Workspace under the Process-Site-URL Channel.
 
 
 ### Week 2 Jan 29
