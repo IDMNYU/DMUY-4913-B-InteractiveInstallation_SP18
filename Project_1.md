@@ -21,7 +21,7 @@ Secure the space that you’d like to use. Let me know before the end of class o
 
 You are required to craft GOOD documentation of your project (video and image). Submit copies to me by Tuesday February 6th (via Slack AND post on your blog under Project 1). Title all of your documentation Project_1_name_shotName.jpg and Project_1_Name_shotName.mov
 
-[Review the slide deck used to launch this project and to look at how others used similar materials.](https://github.com/IDMNYU/DMUY-4913-B-InteractiveInstallation_SP18/tree/master/TransformSpaceBodyScale_simpleMaterials)
+[Review the slide deck used to launch this project and to look at how others used similar materials.](https://github.com/IDMNYU/DMUY-4913-B-InteractiveInstallation_SP18/blob/master/TransformSpaceBodyScale_simpleMaterials.pdf)
 
 ### Process for this project (all present on oyur Process Site)
 
