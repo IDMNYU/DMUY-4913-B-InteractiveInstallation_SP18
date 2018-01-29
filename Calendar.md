@@ -49,7 +49,8 @@
 * Max poem swap
 * More Max Basics
 
-##### Show & Tell III: United Visual Artist & Daily tous les Jours  
+##### Show & Tell III: Sabrina Raaf & David Rokeby 
+##### Show & Tell IV: Rafael Lozano-Hemmer & Nils Voelker
 
 ##### Homework
 * Roundtable prep for Project 2 - post videos on blog by Feb 19th noon
@@ -66,6 +67,8 @@
 * Max In-Class Challenge
 * Jitter + openCV
 
+##### Show & Tell: V.	Camille Utterback & Tangible Interaction
+##### Show & Tell: VI.	Electroland & YesYesNo 
 
 ##### Homework 
 * Read [Transforming Mirrors by David Rokeby](http://homepage.mac.com/davidrokeby/mirrors.html)
@@ -77,8 +80,8 @@
 * Jitter Challenge
 * openCV + Kinect
 
-###### Show & Tell IX: Design I/O & Golan Levin
-###### Show & Tell V: Deep Local & Niklas Roy & Random International   
+###### Show & Tell VII.	Deep Local & Niklas Roy
+###### Show & Tell VIII. Daily tous les Jours (Mouna Andraos) & Random International 
 
 ##### Homework
 * Work on Project 2
@@ -107,8 +110,8 @@ Launch Final Project
 * Discuss Readings
 * Physical Computing 101
 
-###### Show & Tell VII:	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-###### Show & Tell V.	Electroland & YesYesNo (interactive installations)
+###### Show & Tell IX.	Design I/O & Golan Levin 
+###### Show & Tell X.	The Explorartorium & Disney Research 
 
 ##### Homework
 * Prepare for Roundtable for Final Project - Post to your blog
@@ -121,7 +124,8 @@ Launch Final Project
 * Physical Computing 
 * Review of Roundtables
 
-###### Show & Tell: VI.	Camille Utterback & Tangible Interaction (interactive installations) 
+###### Show & Tell: XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell 
+###### Show & Tell: XII. Universal Everything & Karolina Sobekecka
 
 ##### Homework 
 * Final Project: Gather materials, ideate, code, research, sketch: post to your blog
@@ -133,7 +137,8 @@ Launch Final Project
 * Review student work: Stupid Pet Tricks
 * Physical Computing: Output Workshop - Motors, Tips and more
 
-##### Show & Tell VII: The Explorartorium & Disney Research 
+##### Show & Tell XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw
+##### Show & Tell XIV. Jim Campbell & Nemore
 
 ##### Homework
 * Final Project: Physical Prototype and post to your blog
@@ -146,7 +151,8 @@ Launch Final Project
 * IoT Systems
 * Networking devices
 
-##### Show & Tell VII: eCloud, Julius Popp, Jim Campbell  
+##### Show & Tell  XV.  United Visual Artist & Shawn Decker
+##### Show & Tell  XVI.  Adrien M & Claire B Company & ....
 
 ##### Homework
 * Final Project: Evidence of large strides on your project - working code, increased sophistication, research - materials and video posted on your blog
@@ -160,7 +166,8 @@ Launch Final Project
 * Discussion of readings
 * Machine Learning + Wekinator
 
-##### Show & Tell IX: Universal Everything, Karolina Sobekecka (Flightphase), Nemore 
+##### Show & Tell  XVII.  ...
+##### Show & Tell  XVIV.  ....
 
 ##### Homework
 * Final Project: Integration of "meaty" technical hurdles; Conceptual development of depth; User testing. Post videos to blog
@@ -172,7 +179,7 @@ Launch Final Project
 * Best Practices: Boot scripts, Cron Tabs
 * Studio time: Working in space
 
-##### Show & Tell X: Christa Sommerer & Laurent Migonneau, Ryan Habbyshaw 
+##### Show & Tell 
 
 ##### Homework
 * Final Project: Dress Rehersal in Space; Document and post to blog

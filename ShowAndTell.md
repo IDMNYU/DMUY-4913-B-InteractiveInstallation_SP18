@@ -20,17 +20,23 @@ Get familiar with your display preferences!!
 
 ###### Show & Tell Choices: 
 <ul>
-<li>I.	Jeffery Shaw & Myron Kruger (pioneers)</li>
-<li>II.	United Visual Artist & SOFTLab (installation)</li>
-<li>III.	Sabrina Raaf & David Rokeby (interactive installations)</li>
-<li>IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations) - </li>
-<li>V.	Camille Utterback & Tangible Interaction (interactive installations) - </li>
-<li>VI.	Electroland & YesYesNo (interactive installations) - </li>
-<li> VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun) - </li>
-<li>VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful) -</li>
-<li>IX.	Design I/O & Golan Levin (playful) </li>
-<li>X.	The Explorartorium & Disney Research (Design for others) </li>
-<li>XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)   </li>
-<li>XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) </li>
-<li>XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)</li>
+<li>I.	Jeffery Shaw & Myron Kruger (pioneers) ---> Lucas </li>
+<li>II.	United Visual Artist & SOFTLab (installation) ---> Ari</li>
+<li>III.	Sabrina Raaf & David Rokeby (interactive installations) ---> Amira</li>
+<li>IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations) ---> Ryan </li>
+<li>V.	Camille Utterback & Tangible Interaction (interactive installations) ---> Claire </li>
+<li>VI.	Electroland & YesYesNo (interactive installations) ---> Shahriar</li>
+<li> VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun) ---> Idriss </li>
+<li>VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful) ---> Izzy </li>
+<li>IX.	Design I/O & Golan Levin (playful) ---> Angelica</li>
+<li>X.	The Explorartorium & Disney Research (Design for others) ---> Justin</li>
+<li>XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp) (Objects to Systems) ---> Jayna </li>
+<li>XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) ---> Tayla </li>
+<li>XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems) ---> Maddy</li>
+
+<li> XIV. Jim Campbell & Nemore ---> Oliwia </li>
+<li> XV.  United Visual Artist & Shawn Decker ---> Joyce</li>
+<li> XVI. Adrien M & Claire B Company & ---> Yiping </li>
+<li> XVII. TBA ---> Rashid </li>
+<li> XIV.  TBA </li>
 </ul>
