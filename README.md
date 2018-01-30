@@ -1,6 +1,6 @@
 # Interactive Installation 
 
-* **DM-GY 4913-B Special Topics:Interactive Installation**
+* **DM-UY 4913-B Special Topics:Interactive Installation**
 * **Mondays 6:00pm – 9:50pm**
 * **2 MetroTech Room 824**
 * **Katherine Bennett, Visiting Assistant Professor**
