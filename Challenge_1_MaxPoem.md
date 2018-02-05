@@ -10,7 +10,7 @@ You will want to have some bangs happen at regular intervals. What are they bang
 
 How can you add probabilty, selection, matching, etc to further diversify the outcome?
 
-See the Max Patch starter to explore various objects and operations. Comment your code!
+See the [Max Patch starter](https://github.com/IDMNYU/DMUY-4913-B-InteractiveInstallation_SP18/blob/master/Max_Patches/poem.maxpat) to explore various objects and operations. Comment your code!
 
 ### Process:
 
