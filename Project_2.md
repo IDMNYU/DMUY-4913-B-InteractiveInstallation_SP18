@@ -34,7 +34,7 @@ Resource:
 
 * Complete the readings and questions before the class discussion
 
-* Complete a Roundtable Presentation, in it's entirety. Post a video of your Presentation (no longer than 3 minutes) to your Process Site under the Project 2 tab. Videos are due by Feb 19th noon
+* Complete a [Roundtable Presentation](roundtable.md), in it's entirety. Post a video of your Presentation (no longer than 3 minutes) to your Process Site under the Project 2 tab. Videos are due by *Feb 19th noon*
 
 * Complete Max Challenges to get familar with Max
 

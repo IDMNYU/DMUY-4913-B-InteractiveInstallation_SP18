@@ -37,7 +37,8 @@
 ##### Homework 
 * Document Project 1
 * Schedule your Maker Space Induction
-* Challenge: Max Poem
+* Schedule your Fab Lab Induction (See email previously forwarded by me)
+* Read through the following Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8)
 * Read Temporal Experiences: Re-ordering Time and Memory Through Space
 * Read Ollivier Dyen's "The Sadness of the Machine"
 * Read Michael Newman's "Analog, Chance and Memory"
@@ -46,8 +47,8 @@
 ### Week 4 Feb 12th: Maxin'
 ##### InClass  
 * Discussion of readings + [Project 2](Project_2.md)
-* Max poem swap
-* More Max Basics
+* Max Basics
+* Challenge: Max Poem
 
 ##### Show & Tell III: Sabrina Raaf & David Rokeby 
 ##### Show & Tell IV: Rafael Lozano-Hemmer & Nils Voelker
