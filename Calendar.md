@@ -36,7 +36,6 @@
 
 ##### Homework 
 * Document Project 1
-* Schedule your Maker Space Induction
 * Schedule your Fab Lab Induction (See email previously forwarded by me)
 * Read through the following Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8)
 * Read Temporal Experiences: Re-ordering Time and Memory Through Space
@@ -54,7 +53,8 @@
 ##### Show & Tell IV: Rafael Lozano-Hemmer & Nils Voelker
 
 ##### Homework
-* Roundtable prep for Project 2 - post videos on blog by Feb 19th noon
+* Roundtable for Project 2 - post videos on blog by *Feb 19th noon*
+* [Schedule your Maker Space Safety Orientation](https://wp.nyu.edu/makerspace/training-calendar/)
 * Max Sound patcher
 * Read [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
 * Max Tutorials: Max + MSP
