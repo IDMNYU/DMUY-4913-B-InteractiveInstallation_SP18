@@ -37,7 +37,7 @@
 ##### Homework 
 * Document Project 1
 * Schedule your Fab Lab Induction (See email previously forwarded by me)
-* Read through the following Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8)
+* Read through the following Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8))
 * Read Temporal Experiences: Re-ordering Time and Memory Through Space
 * Read Ollivier Dyen's "The Sadness of the Machine"
 * Read Michael Newman's "Analog, Chance and Memory"
@@ -57,7 +57,7 @@
 * [Schedule your Maker Space Safety Orientation](https://wp.nyu.edu/makerspace/training-calendar/)
 * Max Sound patcher
 * Read [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
-* Max Tutorials: Max + MSP
+* Max Tutorials: Max + MSP (Max/Help/References/Click-on-the-house/Max/Tutorials) Tutorials: Max 10 (random drawing) - 175 (abstractions); MSP Tutorials Sampling and Recording (all, BUT Variable Length Wavetables and Waveshaping Synthesis); Jitter Tutorials: What is a Matrix, Attributes, 1 - 5)  
 
 
 ### Feb 19th: No Class President's Day
