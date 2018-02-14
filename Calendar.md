@@ -55,7 +55,7 @@
 ##### Homework
 * Roundtable for Project 2 - post videos on blog by *Feb 19th noon*
 * [Schedule your Maker Space Safety Orientation](https://wp.nyu.edu/makerspace/training-calendar/)
-* Max Sound patcher
+* Do another Max Poem, as outlined in the challenge starter patch, that is automated, has variety and a diversity of functionality. Explore the max objects advised in the starter patch. Know their functionality, by demonstrated use. Explore and play! This should be much more sophisticated than what was submited for your challenge and completely different. Drop the completed assignment, labeled with your name and titled Max Exercise 1, in a Slack DM *before February 26th*
 * Read [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
 * Max Tutorials: Max + MSP (Max/Help/References/Click-on-the-house/Max/Tutorials) Tutorials: Max 10 (random drawing) - 175 (abstractions); MSP Tutorials Sampling and Recording (all, BUT Variable Length Wavetables and Waveshaping Synthesis); Jitter Tutorials: What is a Matrix, Attributes, 1 - 5)  
 
