@@ -18,6 +18,11 @@ You must decide whether the interaction is direct, or in-direct. You should be a
 
 I expect you to dig deeper than that and to use this system to illustrate a concept. I am looking for a portfolio level piece here.
 
+Check out some different techniques such as the SCAMPER Technique or the Card Sorting to help your brainstorm ideas and to develop them further. Show evidence of these techniques in use on your blog through visual evidence and reflection.
+
+[Scamper Technique](S-C-A-M-P-E-R.md)
+[Card Sorting Technique](cardSortingTechnique.md)
+
 Your piece should use some form of networking - other computers, other applications + technologies - as well as some best pratices for maintence and upkeep. Your project must be stable enough to run without errors or stalling for a few hours.
 
 If you are struggling with a concept, I suggest that you review the readings assigned this semester and the Show & Tell People. Experiment with the demos given, review the ideation techniques, and demonstrate evidence of your processes. I am *not* looking for utilization of all the techiques we've been looking at. I am expecting you to thoroughly investigate of a few of these techniques, by utlizing them, with an articulated concept that is driving the process of creation. (Don't be a zombie, who is racing to the finish line. The process of making should inform you. While you may have set-backs, those set-backs should not curtail your making. They should be informing you on how you need to move forward, and your process will demonstrate this through physical evidence.) Use some techniques that interest you whether that is physically or conceptually; whether it is with regard to input and output. Sketches and simple ideas are great building blocks to your project. You could even begin by remaking a project that was created by one of the people we reviewed in class. Then dig deeper, tweak, experiment, expand. Remix. Play. Start with this. Just don't end here.
