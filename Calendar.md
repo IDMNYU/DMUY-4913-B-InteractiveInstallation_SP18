@@ -95,7 +95,7 @@
 ### Spring Break March 12th - 16th
 
 
-### Week 7 March 19th: Project 2 Critique
+### Week 7 March 19th:
 ##### InClass
 * Kinect + Tracking
 * bugs + issues
@@ -111,11 +111,14 @@
 ### Week 8 March 26th: Project 2 Critique
 ##### InClass
 Project 2 Critique
+
 Launch Final Project
 
 
 ##### Homework
 * Document Project 2
+* [MidTerm Self Assessment](SelfAssessments.md)
+* Read Myron Kruger's [Responsive Environments](http://www.ctcs505.com/wp-content/uploads/2016/01/Krueger.pdf)
 * Read Gordan Pask's "The Architectual Relevance of Cybernetics"
 * Download Arduino IDE
 * Acquire Physical Computing Supples. Review your materials in your Physical Computing kit and understand what they do
@@ -127,6 +130,7 @@ Launch Final Project
 ##### InClass
 * Discuss Readings
 * Physical Computing 101
+* Roundtable discussion
 
 ###### Show & Tell IX.	Design I/O & Golan Levin 
 ###### Show & Tell X.	The Explorartorium & Disney Research 
@@ -136,6 +140,7 @@ Launch Final Project
 ###### Show & Tell: XII. Universal Everything & Karolina Sobekecka
 
 ##### Homework 
+* Prepare for Roundtable for Final Project - Post to your blog
 * Final Project: Gather materials, ideate, code, research, sketch: post to your blog
 * Interactive mini system: Stupid Pet Tricks
 * Read: Ken Rinaldo "Autopoiesis"
@@ -144,7 +149,7 @@ Launch Final Project
 
 ### Week 10 April 16th: Physical Computing
 ##### InClass
-* Review student work: Stupid Pet Tricks
+* Roundtable Discussion of Final Project
 * Physical Computing: Output Workshop - Motors, Tips and more
 
 ##### Show & Tell XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw
@@ -188,21 +193,22 @@ Launch Final Project
 ##### InClass
 * Automation
 * Best Practices: Boot scripts, Cron Tabs
+* Studio Time + One-on-One's
 * Studio time: Working in space
 
 ##### Show & Tell 
 
 ##### Homework
 * Final Project: Dress Rehersal in Space; Document and post to blog
+* Resolve and Polish Final Project
+* Document Final Project
 
 
 ### Week 14 May 8th:  Final Critiques
 ##### Final DUE - CRITIQUE
-* Studio Time + One-on-One's
+
 
 ##### Homework
-* Resolve and Polish Final Project
-* Document Final Project
 * [Final Self Assessment](SelfAssessments.md)
 
 

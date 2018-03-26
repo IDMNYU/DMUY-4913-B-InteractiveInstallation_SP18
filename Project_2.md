@@ -4,7 +4,7 @@
 * **DM-GY 4913-B Special Topics: Interactive Installation**
 
 ## Project 2/MidTerm: Memory
-## In-class critique: March 19th;
+## In-class critique: March 26th;
 ## 20% of your Final Grade
 
 ## Materials: Max/MSP/Jitter, openCV, Kinect

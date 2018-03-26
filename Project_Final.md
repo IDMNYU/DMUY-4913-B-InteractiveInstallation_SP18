@@ -3,12 +3,12 @@
 
 ### 25% of your final grade (10% working prototype, 15% final critique)
 
-### Ideation + Research for RoundTable - due online March 26th (see below)
+### Ideation + Research for RoundTable - due online April 2nd/8th (see below)
 ### Process Post - April 16th
 ### Working prototype - April 23th
 ### Process Post - huge strides! - April 30th
-### Evidence of technical hurtle achieved - May 7th
-### Final Critique May 7th & May 14th  6pm
+### Evidence of technical hurtle achieved - May 8th
+### Final Critique May 8th 6pm
 
 The final project is of your choosing. It must have a conceptual componenet, that is evident in your research. The impact of that research should be evident in your input, output, code or all 3. You must create and design the control system, as well as the media, inputs and outputs.
 
@@ -20,13 +20,13 @@ I expect you to dig deeper than that and to use this system to illustrate a conc
 
 Your piece should use some form of networking - other computers, other applications + technologies - as well as some best pratices for maintence and upkeep. Your project must be stable enough to run without errors or stalling for a few hours.
 
-If you are struggling with a concept, I suggest that you experiment with the demos given, review the Show & Tell people and the ideation techniques, and demonstrate evidence of your processes. I am *not* looking for utilization of all the techiques we've been looking at. I am expecting you to thoroughly investigate of a few of these techniques, by utlizing them, with an articulated concept that is driving the process of creation. (Don't be a zombie, who is racing to the finish line. The process of making should inform you. While you may have set-backs, those set-backs should not curtail your making. They should be informing you on how you need to move forward, and your process will demonstrate this through physical evidence.) Use some techniques that interest you whether that is physically or conceptually; whether it is with regard to input and output. Sketches and simple ideas are great building blocks to your project. You could even begin by remaking a project that was created by one of the people we reviewed in class. Then dig deeper, tweak, experiment, expand. Remix. Play. Start with this. Just don't end here.
+If you are struggling with a concept, I suggest that you review the readings assigned this semester and the Show & Tell People. Experiment with the demos given, review the ideation techniques, and demonstrate evidence of your processes. I am *not* looking for utilization of all the techiques we've been looking at. I am expecting you to thoroughly investigate of a few of these techniques, by utlizing them, with an articulated concept that is driving the process of creation. (Don't be a zombie, who is racing to the finish line. The process of making should inform you. While you may have set-backs, those set-backs should not curtail your making. They should be informing you on how you need to move forward, and your process will demonstrate this through physical evidence.) Use some techniques that interest you whether that is physically or conceptually; whether it is with regard to input and output. Sketches and simple ideas are great building blocks to your project. You could even begin by remaking a project that was created by one of the people we reviewed in class. Then dig deeper, tweak, experiment, expand. Remix. Play. Start with this. Just don't end here.
 
 
 When building a technical interactive system, treat each element of your system as a distinct aspect. Get each one technically working and working independently. Then, bring the various elements together to work. Thread them together slowly.
 
 
-### Deliverables for March 26th
+### Deliverables for April 2nd/April 8th
 • A post on your Process Site under "Final Project" with the following:
 
 • Concept map/Word map of concepts and ideas that you are interested in exploring

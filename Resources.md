@@ -1,5 +1,12 @@
 ## Course Resources for Interactive Installation
 
+### Max
+
+- [Super Fun External Max Objects. Check them out](http://www.iamas.ac.jp/~aka/max/)
+
+- [Max API externals](https://github.com/tkzic/internet-sensors)
+
+
 ### General
 
 - [Circuit Basics](CircuitBasics.md)
