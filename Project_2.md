@@ -62,6 +62,8 @@ Resource:
 
 * Document for Portfolio
 
+* Post on your Process Site about the process of developing this project as well as the outcome, and code. Everything needs to be on your Process site. Put a link to your github repo, which has a repo for Project 2, with all of the code.
+
 
 #### [Temporal Experiences](temporal_experiences.md)
 

@@ -104,7 +104,6 @@
 * [MidTerm Self Assessment](SelfAssessments.md)
 * Work on Project 2
 * Read Myron Kruger's [Responsive Environments](http://www.ctcs505.com/wp-content/uploads/2016/01/Krueger.pdf)
-
 * Acquire Physical Computing Supples. Review your materials in your Physical Computing kit and understand what they do
 
 

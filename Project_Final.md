@@ -20,8 +20,9 @@ I expect you to dig deeper than that and to use this system to illustrate a conc
 
 Check out some different techniques such as the SCAMPER Technique or the Card Sorting to help your brainstorm ideas and to develop them further. Show evidence of these techniques in use on your blog through visual evidence and reflection.
 
-[Scamper Technique](S-C-A-M-P-E-R.md)
-[Card Sorting Technique](cardSortingTechnique.md)
+* [Scamper Technique](S-C-A-M-P-E-R.md)
+
+* [Card Sorting Technique](cardSortingTechnique.md)
 
 Your piece should use some form of networking - other computers, other applications + technologies - as well as some best pratices for maintence and upkeep. Your project must be stable enough to run without errors or stalling for a few hours.
 
