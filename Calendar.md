@@ -198,12 +198,12 @@ Launch Final Project
 ##### Show & Tell 
 
 ##### Homework
-* Final Project: Dress Rehersal in Space; Document and post to blog
+* Final Project: Dress Rehearsal in Space; Document and post to blog
 * Resolve and Polish Final Project
 * Document Final Project
 
 
-### Week 14 May 8th:  Final Critiques
+### Week 14 May 7th:  Final Critiques
 ##### Final DUE - CRITIQUE
 
 
